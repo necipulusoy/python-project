@@ -1,1 +1,2 @@
 bu satır frontend branchı ile local de yazılmıştır
+2. satır frontend branchı ile local de yazılmıştır
